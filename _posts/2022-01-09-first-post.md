@@ -1,7 +1,7 @@
 ---
 title: "First pots!!"
 excerpt_separator: "<!--more-->"
-permalink: /first-blog
+permalink: /first-post
 categories:
   - blog
   - about
