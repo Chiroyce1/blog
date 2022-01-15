@@ -1,9 +1,12 @@
 ---
-layout: post
-permalink: /first-post
-title:  "My first post!"
-date:   2022-01-09 14:58:00 +05:30
-categories: post jekyll blog github-pages
+title: "First pots!!"
+excerpt_separator: "<!--more-->"
+categories:
+  - blog
+  - about
+tags:
+  - first
+  - post
 ---
 
 # First post!
