@@ -10,8 +10,6 @@ tags:
   - post
 ---
 
-# First post!
-
 So I got Jekyll setup on `GitHub pages` and it all works now!! 
 I'm just testing a few things for now.. more posts are coming soon!!
 
