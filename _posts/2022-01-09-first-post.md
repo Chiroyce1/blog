@@ -1,5 +1,5 @@
 ---
-title: "First pots!!"
+title: "First post!!"
 excerpt_separator: "<!--more-->"
 permalink: /first-post
 categories:
